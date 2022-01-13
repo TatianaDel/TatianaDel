@@ -1,0 +1,4 @@
+- 👋 Bonjour, je suis Tatiana
+- 💻 Je suis developpeuse
+- 📑 Je recherche actuellement un stage en informatique !
+- 📫 Pour plus d'information : delforge.tatiana@outlook.com
